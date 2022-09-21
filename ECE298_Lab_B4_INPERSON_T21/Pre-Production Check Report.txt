@@ -1,0 +1,87 @@
+Pre-production check start.
+File: N:\ece298\Lab_B4\ECE298_Lab_B4 .pdsprj
+Date: December 6, 2021, 3:42:00 PM
+TEST: Connectivity.
+FAIL: Uncommitted connectivity changes detected.
+Click the refresh icon on the CRC Toolbar to commit the changes.
+TEST: Object validity.
+PASS: Objects valid.
+TEST: DRC valid.
+PASS: No DRC errors.
+TEST: Zone overlap.
+Imaging Copper Layer TOP
+Imaging Copper Layer I1
+Imaging Copper Layer I2
+Imaging Copper Layer I3
+Imaging Copper Layer I4
+Imaging Copper Layer I5
+Imaging Copper Layer I6
+Imaging Copper Layer I7
+Imaging Copper Layer I8
+Imaging Copper Layer I9
+Imaging Copper Layer I10
+Imaging Copper Layer I11
+Imaging Copper Layer I12
+Imaging Copper Layer I13
+Imaging Copper Layer I14
+Imaging Copper Layer BOT
+Processing images
+PASS: No overlap detected.
+TEST: Duplicate part IDs.
+PASS: All part IDs are unique.
+TEST: Unplaced components.
+FAIL: Not all components placed.
+'D1' was not placed.
+'D19' was not placed.
+'D20' was not placed.
+'J1' was not placed.
+'J2' was not placed.
+'J3' was not placed.
+'J4' was not placed.
+'J5' was not placed.
+'J6' was not placed.
+'J7' was not placed.
+'Q1' was not placed.
+'Q2' was not placed.
+'Q3' was not placed.
+'R1' was not placed.
+'R2' was not placed.
+'R3' was not placed.
+'R4' was not placed.
+'R5' was not placed.
+'R6' was not placed.
+'R7' was not placed.
+'R8' was not placed.
+'R9' was not placed.
+'R10' was not placed.
+'R11' was not placed.
+'R12' was not placed.
+'R13' was not placed.
+'R14' was not placed.
+'R15' was not placed.
+'R16' was not placed.
+'R17' was not placed.
+'R18' was not placed.
+'R19' was not placed.
+'R20' was not placed.
+'R21' was not placed.
+'R22' was not placed.
+'R23' was not placed.
+'R24' was not placed.
+'R25' was not placed.
+'R26' was not placed.
+'R27' was not placed.
+'R28' was not placed.
+'R29' was not placed.
+'R30' was not placed.
+'R31' was not placed.
+'R32' was not placed.
+'R33' was not placed.
+'R34' was not placed.
+'R35' was not placed.
+'R36' was not placed.
+'R37' was not placed.
+'R38' was not placed.
+'R39' was not placed.
+'R40' was not placed.
+'R41'
